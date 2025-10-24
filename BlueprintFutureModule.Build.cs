@@ -19,7 +19,7 @@ public class BlueprintFutureModule : ModuleRules
             {
                 "CoreUObject",
                 "Engine",
-                "UELoggingModule",
+                "UELoggingModule", "AutomationTestHelpers",
             }
         );
     }
